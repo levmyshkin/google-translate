@@ -1,5 +1,10 @@
 # Google Translate service
 
+It's a Drupal library for getting translation from Node.js service.
+It depends on iamtraction/google-translate npm package:
+https://www.npmjs.com/package/@iamtraction/google-translate
+https://github.com/iamtraction/google-translate
+
 ## Installation and run Node.js service
 
 Run these commands:
